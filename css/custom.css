@@ -254,6 +254,7 @@ padding-top: 40px;
     height: 633px;
     background-color: #060607;
   }
+}
 
 
 @media (max-width: 767px) {
@@ -318,4 +319,10 @@ padding-top: 40px;
   .sidebar {
     margin-top: 15px;
   }
+
+}
+
+.video-container video {
+  max-width: 100%;
+  min-width: 100%; 
 }
